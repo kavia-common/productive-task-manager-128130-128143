@@ -1,0 +1,4 @@
+{
+    "command": "python init_db.py",
+    "working_directory": "/home/kavia/workspace/code-generation/productive-task-manager-128130-128143/task_manager_database"
+}
